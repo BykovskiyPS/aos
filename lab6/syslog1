@@ -1,0 +1,8 @@
+===Started
+===9999 /home/pavel/aos/lab6/syslog1
+12813
+~~~Test
+	Raw data: 22 7 8 112 
+	After modified: 130 40 46 670 
+===Result: 130 40 46 670 
+===Finished

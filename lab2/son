@@ -1,0 +1,533 @@
+Nov  8 00:13:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:13:14 pavel-X510UNR pkexec[20661]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2325]
+Nov  8 00:13:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:13:14 pavel-X510UNR pkexec[20667]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1950]
+Nov  8 00:13:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:13:14 pavel-X510UNR pkexec[20673]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1575]
+Nov  8 00:13:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:13:14 pavel-X510UNR pkexec[20679]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1200]
+Nov  8 00:13:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:13:14 pavel-X510UNR pkexec[20685]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 825]
+Nov  8 00:13:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:13:14 pavel-X510UNR pkexec[20691]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 450]
+Nov  8 00:13:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:13:14 pavel-X510UNR pkexec[20697]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 75]
+Nov  8 00:13:15 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:13:15 pavel-X510UNR pkexec[20703]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 450]
+Nov  8 00:13:15 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:13:15 pavel-X510UNR pkexec[20710]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 825]
+Nov  8 00:14:59 pavel-X510UNR sudo:    pavel : TTY=pts/1 ; PWD=/home/pavel/p.bikovsky/bus ; USER=root ; COMMAND=/usr/bin/apt-get install python3-distutils
+Nov  8 00:14:59 pavel-X510UNR sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Nov  8 00:15:06 pavel-X510UNR sudo: pam_unix(sudo:session): session closed for user root
+Nov  8 00:15:11 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:15:11 pavel-X510UNR pkexec[20927]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov  8 00:15:13 pavel-X510UNR sudo:    pavel : TTY=pts/1 ; PWD=/home/pavel/p.bikovsky/bus ; USER=root ; COMMAND=/usr/bin/apt-get install python3-apt
+Nov  8 00:15:13 pavel-X510UNR sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Nov  8 00:15:14 pavel-X510UNR sudo: pam_unix(sudo:session): session closed for user root
+Nov  8 00:17:01 pavel-X510UNR CRON[21114]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  8 00:17:01 pavel-X510UNR CRON[21114]: pam_unix(cron:session): session closed for user root
+Nov  8 00:18:01 pavel-X510UNR systemd-logind[850]: System is rebooting.
+Nov  8 00:20:02 pavel-X510UNR systemd-logind[890]: New seat seat0.
+Nov  8 00:20:02 pavel-X510UNR systemd-logind[890]: Watching system buttons on /dev/input/event3 (Power Button)
+Nov  8 00:20:02 pavel-X510UNR systemd-logind[890]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Nov  8 00:20:02 pavel-X510UNR systemd-logind[890]: Watching system buttons on /dev/input/event2 (Power Button)
+Nov  8 00:20:02 pavel-X510UNR systemd-logind[890]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Nov  8 00:20:02 pavel-X510UNR systemd-logind[890]: Watching system buttons on /dev/input/event5 (Logitech M280/320/275)
+Nov  8 00:20:03 pavel-X510UNR systemd-logind[890]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Nov  8 00:20:03 pavel-X510UNR gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+Nov  8 00:20:03 pavel-X510UNR systemd-logind[890]: New session c1 of user gdm.
+Nov  8 00:20:03 pavel-X510UNR systemd: pam_unix(systemd-user:session): session opened for user gdm by (uid=0)
+Nov  8 00:20:04 pavel-X510UNR polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.26 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Nov  8 00:37:42 pavel-X510UNR gdm-password]: pam_unix(gdm-password:session): session opened for user pavel by (uid=0)
+Nov  8 00:37:42 pavel-X510UNR systemd-logind[890]: New session 2 of user pavel.
+Nov  8 00:37:42 pavel-X510UNR systemd: pam_unix(systemd-user:session): session opened for user pavel by (uid=0)
+Nov  8 00:37:47 pavel-X510UNR polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.77 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Nov  8 00:37:53 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:37:53 pavel-X510UNR pkexec[2736]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1200]
+Nov  8 00:38:52 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 00:38:52 pavel-X510UNR pkexec[3220]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov  8 00:40:00 pavel-X510UNR sudo:    pavel : TTY=pts/0 ; PWD=/home/pavel/PycharmProjects/pythonProject/venv/src ; USER=root ; COMMAND=/usr/bin/apt-get unistall pip
+Nov  8 00:40:00 pavel-X510UNR sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Nov  8 00:40:00 pavel-X510UNR sudo: pam_unix(sudo:session): session closed for user root
+Nov  8 00:41:00 pavel-X510UNR sudo:    pavel : TTY=pts/0 ; PWD=/home/pavel/PycharmProjects/pythonProject/venv/src ; USER=root ; COMMAND=/usr/bin/apt-get remove pip
+Nov  8 00:41:00 pavel-X510UNR sudo: pam_unix(sudo:session): session opened for user root by (uid=0)
+Nov  8 00:41:00 pavel-X510UNR sudo: pam_unix(sudo:session): session closed for user root
+Nov  8 00:47:00 pavel-X510UNR gnome-keyring-daemon[2262]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Nov  8 00:47:00 pavel-X510UNR gnome-keyring-daemon[2262]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Nov  8 01:17:01 pavel-X510UNR CRON[5467]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  8 01:17:01 pavel-X510UNR CRON[5467]: pam_unix(cron:session): session closed for user root
+Nov  8 14:00:53 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  8 14:00:53 pavel-X510UNR dbus-daemon[903]: message repeated 3 times: [ [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")]
+Nov  8 14:00:54 pavel-X510UNR systemd-logind[890]: Operation 'sleep' finished.
+Nov  8 14:01:21 pavel-X510UNR gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=pavel
+Nov  8 14:01:25 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 14:01:25 pavel-X510UNR pkexec[5803]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1575]
+Nov  8 14:01:25 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 14:01:25 pavel-X510UNR pkexec[5815]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1950]
+Nov  8 14:01:25 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 14:01:25 pavel-X510UNR pkexec[5821]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2325]
+Nov  8 14:01:25 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 14:01:25 pavel-X510UNR pkexec[5827]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2700]
+Nov  8 14:01:25 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 14:01:25 pavel-X510UNR pkexec[5833]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3075]
+Nov  8 14:01:26 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 14:01:26 pavel-X510UNR pkexec[5839]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3450]
+Nov  8 14:01:29 pavel-X510UNR gdm-password]: gkr-pam: unlocked login keyring
+Nov  8 14:17:01 pavel-X510UNR CRON[6359]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  8 14:17:01 pavel-X510UNR CRON[6359]: pam_unix(cron:session): session closed for user root
+Nov  8 14:40:18 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 14:40:18 pavel-X510UNR pkexec[7256]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov  8 15:17:01 pavel-X510UNR CRON[8571]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  8 15:17:01 pavel-X510UNR CRON[8571]: pam_unix(cron:session): session closed for user root
+Nov  8 16:17:01 pavel-X510UNR CRON[9568]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  8 16:17:01 pavel-X510UNR CRON[9568]: pam_unix(cron:session): session closed for user root
+Nov  8 17:15:23 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 17:15:23 pavel-X510UNR pkexec[10470]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3075]
+Nov  8 17:15:23 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 17:15:23 pavel-X510UNR pkexec[10476]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2700]
+Nov  8 17:15:23 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 17:15:23 pavel-X510UNR pkexec[10482]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2325]
+Nov  8 17:15:23 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 17:15:23 pavel-X510UNR pkexec[10488]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2700]
+Nov  8 17:15:24 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 17:15:24 pavel-X510UNR pkexec[10494]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2325]
+Nov  8 17:17:01 pavel-X510UNR CRON[10623]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  8 17:17:01 pavel-X510UNR CRON[10623]: pam_unix(cron:session): session closed for user root
+Nov  8 17:36:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 17:36:20 pavel-X510UNR pkexec[10961]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1950]
+Nov  8 17:36:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 17:36:20 pavel-X510UNR pkexec[10967]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1575]
+Nov  8 17:36:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 17:36:20 pavel-X510UNR pkexec[10973]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1200]
+Nov  8 17:36:21 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 17:36:21 pavel-X510UNR pkexec[10979]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 825]
+Nov  8 17:53:40 pavel-X510UNR systemd-logind[890]: Lid closed.
+Nov  8 17:53:40 pavel-X510UNR systemd-logind[890]: Suspending...
+Nov  8 21:57:00 pavel-X510UNR systemd-logind[890]: Lid opened.
+Nov  8 21:57:00 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  8 21:57:00 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  8 21:57:00 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  8 21:57:00 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  8 21:57:00 pavel-X510UNR systemd-logind[890]: Operation 'sleep' finished.
+Nov  8 21:57:08 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:57:08 pavel-X510UNR pkexec[11844]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1200]
+Nov  8 21:57:08 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:57:08 pavel-X510UNR pkexec[11851]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1575]
+Nov  8 21:57:08 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:57:08 pavel-X510UNR pkexec[11857]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1950]
+Nov  8 21:57:08 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:57:08 pavel-X510UNR pkexec[11863]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2325]
+Nov  8 21:57:09 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:57:09 pavel-X510UNR pkexec[11869]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2700]
+Nov  8 21:57:09 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:57:09 pavel-X510UNR pkexec[11875]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3075]
+Nov  8 21:57:09 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:57:09 pavel-X510UNR pkexec[11881]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3450]
+Nov  8 21:57:09 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:57:09 pavel-X510UNR pkexec[11887]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3825]
+Nov  8 21:57:09 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:57:09 pavel-X510UNR pkexec[11893]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4200]
+Nov  8 21:57:09 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:57:09 pavel-X510UNR pkexec[11899]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4575]
+Nov  8 21:57:09 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:57:09 pavel-X510UNR pkexec[11905]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4950]
+Nov  8 21:57:12 pavel-X510UNR gdm-password]: gkr-pam: unlocked login keyring
+Nov  8 21:58:13 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:13 pavel-X510UNR pkexec[12138]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 5325]
+Nov  8 21:58:13 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:13 pavel-X510UNR pkexec[12149]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 5700]
+Nov  8 21:58:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:14 pavel-X510UNR pkexec[12155]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6075]
+Nov  8 21:58:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:14 pavel-X510UNR pkexec[12161]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6450]
+Nov  8 21:58:15 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:15 pavel-X510UNR pkexec[12167]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6075]
+Nov  8 21:58:15 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:15 pavel-X510UNR pkexec[12173]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6450]
+Nov  8 21:58:15 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:15 pavel-X510UNR pkexec[12179]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6825]
+Nov  8 21:58:16 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:16 pavel-X510UNR pkexec[12185]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 7200]
+Nov  8 21:58:16 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:16 pavel-X510UNR pkexec[12204]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6825]
+Nov  8 21:58:16 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:16 pavel-X510UNR pkexec[12210]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6450]
+Nov  8 21:58:17 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:17 pavel-X510UNR pkexec[12216]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6825]
+Nov  8 21:58:17 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:17 pavel-X510UNR pkexec[12222]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 7200]
+Nov  8 21:58:17 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:17 pavel-X510UNR pkexec[12228]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 7500]
+Nov  8 21:58:17 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  8 21:58:17 pavel-X510UNR pkexec[12234]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 7125]
+Nov  8 22:17:01 pavel-X510UNR CRON[12487]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  8 22:17:01 pavel-X510UNR CRON[12487]: pam_unix(cron:session): session closed for user root
+Nov  8 23:17:01 pavel-X510UNR CRON[13324]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  8 23:17:01 pavel-X510UNR CRON[13324]: pam_unix(cron:session): session closed for user root
+Nov  9 00:17:01 pavel-X510UNR CRON[14525]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  9 00:17:01 pavel-X510UNR CRON[14525]: pam_unix(cron:session): session closed for user root
+Nov  9 01:17:01 pavel-X510UNR CRON[15315]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  9 01:17:01 pavel-X510UNR CRON[15315]: pam_unix(cron:session): session closed for user root
+Nov  9 02:17:01 pavel-X510UNR CRON[16809]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  9 02:17:01 pavel-X510UNR CRON[16809]: pam_unix(cron:session): session closed for user root
+Nov  9 10:44:25 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  9 10:44:25 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  9 10:44:25 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  9 10:44:25 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  9 10:44:25 pavel-X510UNR systemd-logind[890]: Operation 'sleep' finished.
+Nov  9 10:44:33 pavel-X510UNR gdm-password]: gkr-pam: unlocked login keyring
+Nov  9 10:44:42 pavel-X510UNR systemd-logind[890]: System is rebooting.
+Nov  9 10:44:42 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  9 10:44:42 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  9 10:44:42 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  9 10:44:42 pavel-X510UNR dbus-daemon[903]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.81" (uid=1000 pid=2445 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=865 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  9 19:12:00 pavel-X510UNR systemd-logind[836]: New seat seat0.
+Nov  9 19:12:00 pavel-X510UNR systemd-logind[836]: Watching system buttons on /dev/input/event3 (Power Button)
+Nov  9 19:12:00 pavel-X510UNR systemd-logind[836]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Nov  9 19:12:00 pavel-X510UNR systemd-logind[836]: Watching system buttons on /dev/input/event2 (Power Button)
+Nov  9 19:12:00 pavel-X510UNR systemd-logind[836]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Nov  9 19:12:00 pavel-X510UNR systemd-logind[836]: Watching system buttons on /dev/input/event5 (Logitech M280/320/275)
+Nov  9 19:12:01 pavel-X510UNR systemd-logind[836]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Nov  9 19:12:01 pavel-X510UNR gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+Nov  9 19:12:01 pavel-X510UNR systemd-logind[836]: New session c1 of user gdm.
+Nov  9 19:12:01 pavel-X510UNR systemd: pam_unix(systemd-user:session): session opened for user gdm by (uid=0)
+Nov  9 19:12:02 pavel-X510UNR polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.26 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Nov  9 19:12:09 pavel-X510UNR gdm-password]: pam_unix(gdm-password:session): session opened for user pavel by (uid=0)
+Nov  9 19:12:09 pavel-X510UNR systemd-logind[836]: New session 2 of user pavel.
+Nov  9 19:12:09 pavel-X510UNR systemd: pam_unix(systemd-user:session): session opened for user pavel by (uid=0)
+Nov  9 19:12:14 pavel-X510UNR polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.78 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Nov  9 19:12:24 pavel-X510UNR gnome-keyring-daemon[1829]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Nov  9 19:12:24 pavel-X510UNR gnome-keyring-daemon[1829]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Nov  9 16:13:19 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 16:13:19 pavel-X510UNR pkexec[4023]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov  9 16:17:01 pavel-X510UNR CRON[4278]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  9 16:17:01 pavel-X510UNR CRON[4278]: pam_unix(cron:session): session closed for user root
+Nov  9 16:50:45 pavel-X510UNR systemd-logind[836]: Lid closed.
+Nov  9 16:50:45 pavel-X510UNR systemd-logind[836]: Suspending...
+Nov  9 21:31:43 pavel-X510UNR systemd-logind[836]: Lid opened.
+Nov  9 21:31:43 pavel-X510UNR dbus-daemon[839]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.82" (uid=1000 pid=2035 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.3" (uid=0 pid=869 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov  9 21:31:43 pavel-X510UNR dbus-daemon[839]: message repeated 3 times: [ [system] Rejected send message, 1 matched rules; type="error", sender=":1.82" (uid=1000 pid=2035 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.3" (uid=0 pid=869 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")]
+Nov  9 21:31:44 pavel-X510UNR systemd-logind[836]: Operation 'sleep' finished.
+Nov  9 21:31:51 pavel-X510UNR gdm-password]: gkr-pam: unlocked login keyring
+Nov  9 21:33:28 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:28 pavel-X510UNR pkexec[5466]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6750]
+Nov  9 21:33:28 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:28 pavel-X510UNR pkexec[5472]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6375]
+Nov  9 21:33:28 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:28 pavel-X510UNR pkexec[5478]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6000]
+Nov  9 21:33:28 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:28 pavel-X510UNR pkexec[5484]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 5625]
+Nov  9 21:33:28 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:28 pavel-X510UNR pkexec[5490]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 5250]
+Nov  9 21:33:28 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:28 pavel-X510UNR pkexec[5496]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4875]
+Nov  9 21:33:28 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:28 pavel-X510UNR pkexec[5502]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4500]
+Nov  9 21:33:28 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:28 pavel-X510UNR pkexec[5508]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4125]
+Nov  9 21:33:28 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:28 pavel-X510UNR pkexec[5514]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3750]
+Nov  9 21:33:29 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:29 pavel-X510UNR pkexec[5520]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3375]
+Nov  9 21:33:29 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:29 pavel-X510UNR pkexec[5526]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3000]
+Nov  9 21:33:29 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:33:29 pavel-X510UNR pkexec[5532]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2625]
+Nov  9 21:34:13 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:34:13 pavel-X510UNR pkexec[5716]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2250]
+Nov  9 21:34:13 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:34:13 pavel-X510UNR pkexec[5722]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1875]
+Nov  9 21:34:51 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:34:51 pavel-X510UNR pkexec[5955]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1500]
+Nov  9 21:34:52 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:34:52 pavel-X510UNR pkexec[5961]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1125]
+Nov  9 21:34:53 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:34:53 pavel-X510UNR pkexec[5967]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 750]
+Nov  9 21:34:54 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:34:54 pavel-X510UNR pkexec[5976]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1125]
+Nov  9 21:34:54 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 21:34:54 pavel-X510UNR pkexec[5982]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 750]
+Nov  9 22:17:01 pavel-X510UNR CRON[8104]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  9 22:17:01 pavel-X510UNR CRON[8104]: pam_unix(cron:session): session closed for user root
+Nov  9 22:58:37 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 22:58:37 pavel-X510UNR pkexec[8788]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1125]
+Nov  9 23:17:01 pavel-X510UNR CRON[9158]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  9 23:17:01 pavel-X510UNR CRON[9158]: pam_unix(cron:session): session closed for user root
+Nov  9 23:49:12 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 23:49:12 pavel-X510UNR pkexec[10961]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1500]
+Nov  9 23:49:13 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 23:49:13 pavel-X510UNR pkexec[10967]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1875]
+Nov  9 23:49:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 23:49:14 pavel-X510UNR pkexec[10973]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2250]
+Nov  9 23:49:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 23:49:14 pavel-X510UNR pkexec[10980]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1875]
+Nov  9 23:49:15 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 23:49:15 pavel-X510UNR pkexec[10986]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2250]
+Nov  9 23:49:29 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 23:49:29 pavel-X510UNR pkexec[10998]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1875]
+Nov  9 23:49:29 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 23:49:29 pavel-X510UNR pkexec[11004]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1500]
+Nov  9 23:49:29 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 23:49:29 pavel-X510UNR pkexec[11010]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1125]
+Nov  9 23:49:30 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 23:49:30 pavel-X510UNR pkexec[11016]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1500]
+Nov  9 23:49:31 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 23:49:31 pavel-X510UNR pkexec[11022]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1125]
+Nov  9 23:49:32 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov  9 23:49:32 pavel-X510UNR pkexec[11028]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1500]
+Nov 10 00:04:47 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 10 00:04:47 pavel-X510UNR pkexec[11317]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1875]
+Nov 10 00:04:47 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 10 00:04:47 pavel-X510UNR pkexec[11323]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2250]
+Nov 10 00:04:48 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 10 00:04:48 pavel-X510UNR pkexec[11329]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2625]
+Nov 10 00:04:48 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 10 00:04:48 pavel-X510UNR pkexec[11335]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3000]
+Nov 10 00:04:48 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 10 00:04:48 pavel-X510UNR pkexec[11341]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3375]
+Nov 10 00:04:48 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 10 00:04:48 pavel-X510UNR pkexec[11347]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3750]
+Nov 10 00:04:48 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 10 00:04:48 pavel-X510UNR pkexec[11353]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4125]
+Nov 10 00:04:49 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 10 00:04:49 pavel-X510UNR pkexec[11359]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4500]
+Nov 10 00:04:49 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 10 00:04:49 pavel-X510UNR pkexec[11365]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4875]
+Nov 10 00:17:01 pavel-X510UNR CRON[11621]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 00:17:01 pavel-X510UNR CRON[11621]: pam_unix(cron:session): session closed for user root
+Nov 10 01:17:01 pavel-X510UNR CRON[14684]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 01:17:01 pavel-X510UNR CRON[14684]: pam_unix(cron:session): session closed for user root
+Nov 10 02:17:01 pavel-X510UNR CRON[18057]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 10 02:17:01 pavel-X510UNR CRON[18057]: pam_unix(cron:session): session closed for user root
+Nov 10 02:37:20 pavel-X510UNR systemd-logind[836]: System is powering down.
+Nov 12 03:36:33 pavel-X510UNR systemd-logind[887]: New seat seat0.
+Nov 12 03:36:33 pavel-X510UNR systemd-logind[887]: Watching system buttons on /dev/input/event3 (Power Button)
+Nov 12 03:36:34 pavel-X510UNR systemd-logind[887]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Nov 12 03:36:34 pavel-X510UNR systemd-logind[887]: Watching system buttons on /dev/input/event2 (Power Button)
+Nov 12 03:36:34 pavel-X510UNR systemd-logind[887]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Nov 12 03:36:34 pavel-X510UNR systemd-logind[887]: Watching system buttons on /dev/input/event5 (Logitech M280/320/275)
+Nov 12 03:36:34 pavel-X510UNR systemd-logind[887]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Nov 12 03:36:34 pavel-X510UNR gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+Nov 12 03:36:34 pavel-X510UNR systemd-logind[887]: New session c1 of user gdm.
+Nov 12 03:36:34 pavel-X510UNR systemd: pam_unix(systemd-user:session): session opened for user gdm by (uid=0)
+Nov 12 03:36:36 pavel-X510UNR polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.26 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Nov 12 03:36:55 pavel-X510UNR gdm-password]: pam_unix(gdm-password:session): session opened for user pavel by (uid=0)
+Nov 12 03:36:55 pavel-X510UNR systemd-logind[887]: New session 2 of user pavel.
+Nov 12 03:36:55 pavel-X510UNR systemd: pam_unix(systemd-user:session): session opened for user pavel by (uid=0)
+Nov 12 03:37:00 pavel-X510UNR polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.78 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Nov 12 00:38:04 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 00:38:04 pavel-X510UNR pkexec[9205]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov 12 00:41:03 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 00:41:03 pavel-X510UNR pkexec[17201]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov 12 01:17:01 pavel-X510UNR CRON[17417]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 12 01:17:01 pavel-X510UNR CRON[17417]: pam_unix(cron:session): session closed for user root
+Nov 12 01:31:16 pavel-X510UNR gnome-keyring-daemon[1922]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Nov 12 01:31:16 pavel-X510UNR gnome-keyring-daemon[1922]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Nov 12 01:32:56 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 01:32:56 pavel-X510UNR pkexec[18104]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4500]
+Nov 12 01:32:56 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 01:32:56 pavel-X510UNR pkexec[18111]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4125]
+Nov 12 01:32:57 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 01:32:57 pavel-X510UNR pkexec[18131]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3750]
+Nov 12 01:32:57 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 01:32:57 pavel-X510UNR pkexec[18137]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3375]
+Nov 12 15:38:34 pavel-X510UNR dbus-daemon[924]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.82" (uid=1000 pid=2104 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.3" (uid=0 pid=897 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov 12 15:38:34 pavel-X510UNR dbus-daemon[924]: message repeated 3 times: [ [system] Rejected send message, 1 matched rules; type="error", sender=":1.82" (uid=1000 pid=2104 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.3" (uid=0 pid=897 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")]
+Nov 12 15:38:35 pavel-X510UNR systemd-logind[887]: Operation 'sleep' finished.
+Nov 12 15:38:41 pavel-X510UNR gdm-password]: gkr-pam: unlocked login keyring
+Nov 12 16:07:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 16:07:20 pavel-X510UNR pkexec[20028]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3750]
+Nov 12 16:07:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 16:07:20 pavel-X510UNR pkexec[20034]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4125]
+Nov 12 16:07:21 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 16:07:21 pavel-X510UNR pkexec[20040]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4500]
+Nov 12 16:07:22 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 16:07:22 pavel-X510UNR pkexec[20046]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4875]
+Nov 12 16:09:27 pavel-X510UNR systemd-logind[887]: System is rebooting.
+Nov 12 16:09:27 pavel-X510UNR polkitd(authority=local): Unregistered Authentication Agent for unix-session:2 (system bus name :1.78, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8) (disconnected from bus)
+Nov 12 21:02:55 pavel-X510UNR systemd-logind[899]: New seat seat0.
+Nov 12 21:02:55 pavel-X510UNR systemd-logind[899]: Watching system buttons on /dev/input/event3 (Power Button)
+Nov 12 21:02:55 pavel-X510UNR systemd-logind[899]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Nov 12 21:02:55 pavel-X510UNR systemd-logind[899]: Watching system buttons on /dev/input/event2 (Power Button)
+Nov 12 21:02:55 pavel-X510UNR systemd-logind[899]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Nov 12 21:02:55 pavel-X510UNR systemd-logind[899]: Watching system buttons on /dev/input/event5 (Logitech M280/320/275)
+Nov 12 21:02:56 pavel-X510UNR systemd-logind[899]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Nov 12 21:02:56 pavel-X510UNR gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+Nov 12 21:02:56 pavel-X510UNR systemd-logind[899]: New session c1 of user gdm.
+Nov 12 21:02:56 pavel-X510UNR systemd: pam_unix(systemd-user:session): session opened for user gdm by (uid=0)
+Nov 12 21:02:57 pavel-X510UNR polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.26 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Nov 12 21:03:05 pavel-X510UNR gdm-password]: pam_unix(gdm-password:session): session opened for user pavel by (uid=0)
+Nov 12 21:03:05 pavel-X510UNR systemd-logind[899]: New session 2 of user pavel.
+Nov 12 21:03:05 pavel-X510UNR systemd: pam_unix(systemd-user:session): session opened for user pavel by (uid=0)
+Nov 12 21:03:09 pavel-X510UNR polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.77 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Nov 12 21:03:17 pavel-X510UNR gnome-keyring-daemon[1515]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Nov 12 21:03:17 pavel-X510UNR gnome-keyring-daemon[1515]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Nov 12 18:04:14 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 18:04:14 pavel-X510UNR pkexec[3883]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov 12 18:17:01 pavel-X510UNR CRON[6389]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 12 18:17:01 pavel-X510UNR CRON[6389]: pam_unix(cron:session): session closed for user root
+Nov 12 18:39:18 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 18:39:18 pavel-X510UNR pkexec[7776]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4500]
+Nov 12 18:39:18 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 18:39:18 pavel-X510UNR pkexec[7783]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4125]
+Nov 12 18:39:19 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 18:39:19 pavel-X510UNR pkexec[7789]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3750]
+Nov 12 18:39:19 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 18:39:19 pavel-X510UNR pkexec[7796]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3375]
+Nov 12 19:15:38 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:15:38 pavel-X510UNR pkexec[10680]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3000]
+Nov 12 19:15:38 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:15:38 pavel-X510UNR pkexec[10686]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2625]
+Nov 12 19:15:38 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:15:38 pavel-X510UNR pkexec[10692]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2250]
+Nov 12 19:15:38 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:15:38 pavel-X510UNR pkexec[10698]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1875]
+Nov 12 19:15:38 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:15:38 pavel-X510UNR pkexec[10704]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1500]
+Nov 12 19:15:39 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:15:39 pavel-X510UNR pkexec[10714]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1125]
+Nov 12 19:15:39 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:15:39 pavel-X510UNR pkexec[10733]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 750]
+Nov 12 19:17:01 pavel-X510UNR CRON[10889]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 12 19:17:01 pavel-X510UNR CRON[10889]: pam_unix(cron:session): session closed for user root
+Nov 12 19:26:02 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:02 pavel-X510UNR pkexec[11389]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1125]
+Nov 12 19:26:02 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:02 pavel-X510UNR pkexec[11395]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1500]
+Nov 12 19:26:02 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:02 pavel-X510UNR pkexec[11401]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1875]
+Nov 12 19:26:02 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:02 pavel-X510UNR pkexec[11407]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2250]
+Nov 12 19:26:02 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:02 pavel-X510UNR pkexec[11413]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2625]
+Nov 12 19:26:02 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:02 pavel-X510UNR pkexec[11419]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3000]
+Nov 12 19:26:03 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:03 pavel-X510UNR pkexec[11425]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3375]
+Nov 12 19:26:03 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:03 pavel-X510UNR pkexec[11431]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3750]
+Nov 12 19:26:03 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:03 pavel-X510UNR pkexec[11437]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4125]
+Nov 12 19:26:03 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:03 pavel-X510UNR pkexec[11443]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4500]
+Nov 12 19:26:03 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:03 pavel-X510UNR pkexec[11449]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4875]
+Nov 12 19:26:03 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:03 pavel-X510UNR pkexec[11457]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 5250]
+Nov 12 19:26:03 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:03 pavel-X510UNR pkexec[11463]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 5625]
+Nov 12 19:26:03 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:03 pavel-X510UNR pkexec[11469]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6000]
+Nov 12 19:26:03 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:03 pavel-X510UNR pkexec[11475]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6375]
+Nov 12 19:26:03 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:03 pavel-X510UNR pkexec[11481]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6750]
+Nov 12 19:26:04 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 19:26:04 pavel-X510UNR pkexec[11487]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6375]
+Nov 12 20:17:01 pavel-X510UNR CRON[14799]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 12 20:17:01 pavel-X510UNR CRON[14799]: pam_unix(cron:session): session closed for user root
+Nov 12 21:17:01 pavel-X510UNR CRON[18203]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 12 21:17:01 pavel-X510UNR CRON[18203]: pam_unix(cron:session): session closed for user root
+Nov 12 22:17:01 pavel-X510UNR CRON[20745]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 12 22:17:01 pavel-X510UNR CRON[20745]: pam_unix(cron:session): session closed for user root
+Nov 12 23:17:01 pavel-X510UNR CRON[23133]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 12 23:17:01 pavel-X510UNR CRON[23133]: pam_unix(cron:session): session closed for user root
+Nov 12 23:42:31 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 23:42:31 pavel-X510UNR pkexec[24174]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6750]
+Nov 12 23:42:31 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 23:42:31 pavel-X510UNR pkexec[24180]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 7125]
+Nov 12 23:42:31 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 23:42:32 pavel-X510UNR pkexec[24186]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6750]
+Nov 12 23:42:32 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 12 23:42:32 pavel-X510UNR pkexec[24192]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6375]
+Nov 13 00:17:01 pavel-X510UNR CRON[24682]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 13 00:17:01 pavel-X510UNR CRON[24682]: pam_unix(cron:session): session closed for user root
+Nov 13 00:46:20 pavel-X510UNR systemd-logind[899]: System is powering down.
+Nov 13 00:46:20 pavel-X510UNR polkitd(authority=local): Unregistered Authentication Agent for unix-session:2 (system bus name :1.77, object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8) (disconnected from bus)
+Nov 13 11:04:44 pavel-X510UNR systemd-logind[838]: New seat seat0.
+Nov 13 11:04:44 pavel-X510UNR systemd-logind[838]: Watching system buttons on /dev/input/event3 (Power Button)
+Nov 13 11:04:44 pavel-X510UNR systemd-logind[838]: Watching system buttons on /dev/input/event0 (Lid Switch)
+Nov 13 11:04:44 pavel-X510UNR systemd-logind[838]: Watching system buttons on /dev/input/event2 (Power Button)
+Nov 13 11:04:44 pavel-X510UNR systemd-logind[838]: Watching system buttons on /dev/input/event1 (Sleep Button)
+Nov 13 11:04:44 pavel-X510UNR systemd-logind[838]: Watching system buttons on /dev/input/event5 (Logitech M280/320/275)
+Nov 13 11:04:45 pavel-X510UNR systemd-logind[838]: Watching system buttons on /dev/input/event4 (AT Translated Set 2 keyboard)
+Nov 13 11:04:45 pavel-X510UNR gdm-launch-environment]: pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+Nov 13 11:04:45 pavel-X510UNR systemd-logind[838]: New session c1 of user gdm.
+Nov 13 11:04:45 pavel-X510UNR systemd: pam_unix(systemd-user:session): session opened for user gdm by (uid=0)
+Nov 13 11:04:46 pavel-X510UNR polkitd(authority=local): Registered Authentication Agent for unix-session:c1 (system bus name :1.26 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Nov 13 11:04:53 pavel-X510UNR gdm-password]: pam_unix(gdm-password:session): session opened for user pavel by (uid=0)
+Nov 13 11:04:53 pavel-X510UNR systemd-logind[838]: New session 2 of user pavel.
+Nov 13 11:04:53 pavel-X510UNR systemd: pam_unix(systemd-user:session): session opened for user pavel by (uid=0)
+Nov 13 11:04:58 pavel-X510UNR polkitd(authority=local): Registered Authentication Agent for unix-session:2 (system bus name :1.78 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale ru_RU.UTF-8)
+Nov 13 11:05:07 pavel-X510UNR gnome-keyring-daemon[2146]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Nov 13 11:05:07 pavel-X510UNR gnome-keyring-daemon[2146]: asked to register item /org/freedesktop/secrets/collection/login/1, but it's already registered
+Nov 13 11:06:02 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 11:06:02 pavel-X510UNR pkexec[4536]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov 13 11:17:01 pavel-X510UNR CRON[4765]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 13 11:17:01 pavel-X510UNR CRON[4765]: pam_unix(cron:session): session closed for user root
+Nov 13 12:17:01 pavel-X510UNR CRON[7108]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 13 12:17:01 pavel-X510UNR CRON[7108]: pam_unix(cron:session): session closed for user root
+Nov 13 12:36:01 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 12:36:01 pavel-X510UNR pkexec[12313]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/update-notifier/package-system-locked]
+Nov 13 13:17:01 pavel-X510UNR CRON[13865]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 13 13:17:01 pavel-X510UNR CRON[13865]: pam_unix(cron:session): session closed for user root
+Nov 13 14:17:01 pavel-X510UNR CRON[15027]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 13 14:17:01 pavel-X510UNR CRON[15027]: pam_unix(cron:session): session closed for user root
+Nov 13 14:52:10 pavel-X510UNR systemd-logind[838]: Delay lock is active (UID 1000/pavel, PID 3479/gnome-shell) but inhibitor timeout is reached.
+Nov 13 17:22:54 pavel-X510UNR dbus-daemon[896]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.82" (uid=1000 pid=3550 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=841 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov 13 17:22:54 pavel-X510UNR dbus-daemon[896]: [system] Rejected send message, 1 matched rules; type="error", sender=":1.82" (uid=1000 pid=3550 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=841 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Nov 13 17:22:54 pavel-X510UNR dbus-daemon[896]: message repeated 2 times: [ [system] Rejected send message, 1 matched rules; type="error", sender=":1.82" (uid=1000 pid=3550 comm="/usr/bin/pulseaudio --start --log-target=syslog " label="unconfined") interface="(unset)" member="(unset)" error name="org.bluez.MediaEndpoint1.Error.NotImplemented" requested_reply="0" destination=":1.2" (uid=0 pid=841 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")]
+Nov 13 17:22:55 pavel-X510UNR systemd-logind[838]: Operation 'sleep' finished.
+Nov 13 17:24:12 pavel-X510UNR gdm-password]: pam_unix(gdm-password:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/tty2 ruser= rhost=  user=pavel
+Nov 13 17:24:16 pavel-X510UNR gdm-password]: gkr-pam: unlocked login keyring
+Nov 13 17:24:23 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 17:24:23 pavel-X510UNR pkexec[16434]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 6000]
+Nov 13 17:24:23 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 17:24:23 pavel-X510UNR pkexec[16440]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 5625]
+Nov 13 17:24:23 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 17:24:23 pavel-X510UNR pkexec[16446]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 5250]
+Nov 13 17:24:23 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 17:24:23 pavel-X510UNR pkexec[16452]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4875]
+Nov 13 17:24:23 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 17:24:23 pavel-X510UNR pkexec[16458]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4500]
+Nov 13 17:24:24 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 17:24:24 pavel-X510UNR pkexec[16464]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4125]
+Nov 13 17:24:24 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 17:24:24 pavel-X510UNR pkexec[16470]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3750]
+Nov 13 17:24:24 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 17:24:24 pavel-X510UNR pkexec[16476]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3375]
+Nov 13 17:24:24 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 17:24:24 pavel-X510UNR pkexec[16482]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3000]
+Nov 13 18:17:01 pavel-X510UNR CRON[17643]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 13 18:17:01 pavel-X510UNR CRON[17643]: pam_unix(cron:session): session closed for user root
+Nov 13 18:20:19 pavel-X510UNR gdm-password]: gkr-pam: unlocked login keyring
+Nov 13 18:20:39 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:20:39 pavel-X510UNR pkexec[17686]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2625]
+Nov 13 18:20:39 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:20:39 pavel-X510UNR pkexec[17692]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2250]
+Nov 13 18:20:39 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:20:39 pavel-X510UNR pkexec[17698]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1875]
+Nov 13 18:20:40 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:20:40 pavel-X510UNR pkexec[17704]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1500]
+Nov 13 18:20:40 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:20:40 pavel-X510UNR pkexec[17711]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 1875]
+Nov 13 18:43:19 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:43:19 pavel-X510UNR pkexec[18574]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2250]
+Nov 13 18:43:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:43:20 pavel-X510UNR pkexec[18580]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 2625]
+Nov 13 18:43:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:43:20 pavel-X510UNR pkexec[18586]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3000]
+Nov 13 18:43:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:43:20 pavel-X510UNR pkexec[18592]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3375]
+Nov 13 18:43:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:43:20 pavel-X510UNR pkexec[18598]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 3750]
+Nov 13 18:43:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:43:20 pavel-X510UNR pkexec[18604]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4125]
+Nov 13 18:43:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:43:20 pavel-X510UNR pkexec[18610]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4500]
+Nov 13 18:43:20 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:43:20 pavel-X510UNR pkexec[18616]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 4875]
+Nov 13 18:43:21 pavel-X510UNR pkexec: pam_unix(polkit-1:session): session opened for user root by (uid=1000)
+Nov 13 18:43:21 pavel-X510UNR pkexec[18622]: pavel: Executing command [USER=root] [TTY=unknown] [CWD=/home/pavel] [COMMAND=/usr/lib/gnome-settings-daemon/gsd-backlight-helper --set-brightness 5250]
+Nov 13 19:17:01 pavel-X510UNR CRON[19659]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov 13 19:17:01 pavel-X510UNR CRON[19659]: pam_unix(cron:session): session closed for user root
